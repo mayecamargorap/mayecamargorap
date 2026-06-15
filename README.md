@@ -14,7 +14,7 @@
 
 <td valign="top">
 
-<h4>Soy estudiante de la vida: artista, rapera en construcción y apasionada por el aprendizaje que conecta con las personas.
+<h4>Soy estudiante de la vida: artista, rapera en construcción y apasionada por el aprendizaje que conecta con las personas.</br>
 
 En este perfil encontrarás diagramas, apuntes y proyectos multimedia.
 
@@ -22,8 +22,7 @@ Si alguno de mis recursos te fue útil y deseas invitarme un café ☕ o contact
 
 📞**Daviplata:** 3144325664
 
-Thankius...
-
+Thankius...<br>
 **Maye**
 
 </td>
