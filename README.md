@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🎵 Hola, Soy Maye
 
-<!--
-**mayecamargorap/mayecamargorap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table border="0">
+<tr>
 
-Here are some ideas to get you started:
+<td width="220" border="0">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="200px" alt="Cute Bear" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+</td>
+
+<td width="50" border="0"></td>
+
+<td border="0">
+
+Soy estudiante de la vida: artista, rapera en construcción y apasionada por el aprendizaje que conecta con las personas.
+
+En este perfil encontrarás diagramas, apuntes y proyectos multimedia.
+
+Si alguno de mis recursos te fue útil y deseas invitarme un café ☕ o contactarme 😉
+
+**Daviplata:** 3144325664
+
+Thankius...
+
+**Maye**
+
+</td>
+
+</tr>
+</table>
