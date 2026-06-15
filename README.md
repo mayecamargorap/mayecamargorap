@@ -1,17 +1,16 @@
 # 🎵 Hola, Soy Maye
 
-<table border="0">
+<table>
 <tr>
-
-<td width="220" border="0">
+<td width="220" valign="top">
 
 <img width="200px" alt="Cute Bear" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 </td>
 
-<td width="50" border="0"></td>
+<td width="50"></td>
 
-<td border="0">
+<td valign="top">
 
 Soy estudiante de la vida: artista, rapera en construcción y apasionada por el aprendizaje que conecta con las personas.
 
@@ -26,6 +25,5 @@ Thankius...
 **Maye**
 
 </td>
-
 </tr>
 </table>
